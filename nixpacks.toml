@@ -1,5 +1,0 @@
-[phases.setup]
-nixPkgs = []
-
-[start]
-cmd = "npx serve -s . -l ${PORT:-3000}"
